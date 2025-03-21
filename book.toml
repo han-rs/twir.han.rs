@@ -1,0 +1,23 @@
+[book]
+authors = ["Hantong Chen"]
+language = "zh-CN"
+multilingual = true
+title = "TWiR 译文辑录"
+
+[rust]
+edition = "2024"
+
+[output.html]
+git-repository-url = "https://github.com/han-rs/twir.han.rs"
+edit-url-template = "https://github.com/han-rs/twir.han.rs/edit/main/{path}"
+additional-js = ["./theme/giscus.js"]
+smart-punctuation = true
+mathjax-support = true
+hash-files = true
+
+[output.html.playground]
+editable = true
+copyable = true
+copy-js = true
+line-numbers = true
+runnable = true
