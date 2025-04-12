@@ -1,4 +1,4 @@
-# TWiR 翻译辑录
+# TWiR 译文辑录
 
 在线版本见: [https://twir.han.rs](https://twir.han.rs).
 
