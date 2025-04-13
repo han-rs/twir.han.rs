@@ -11,3 +11,4 @@
 # 第 585 期
 
 - [Rust 计算属性 (computed properties) 最佳实践](./585/computed-properties-in-rust.md)
+- [定位 "Future Is Not Send" 错误](./585/pinning-down-future-is-not-send-errors.md)
