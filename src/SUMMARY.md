@@ -20,3 +20,7 @@
 # 第 594 期
 
 - [安全 Rust "不安全"](./594/pitfalls-of-safe-rust.md)
+
+# 第 595 期
+
+- [Rust 类型系统: 从 GAT 到类型擦除的深入探讨](./595/rust-type-system-deep-dive.md)
