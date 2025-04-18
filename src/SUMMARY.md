@@ -28,3 +28,4 @@
 - [Rust GUI 生态调查 (2025)](./595/2025-survey-of-rust-gui-libraries.md)
 - [从头开始异步 (1): Future 到底是什么?](./595/natkr-async-from-scratch-1.md)
 - [从头开始异步 (2): 也许需要唤醒我](./595/natkr-async-from-scratch-2.md)
+- [Rust 状态机模式](./595/rust-state-machine-pattern.md)
