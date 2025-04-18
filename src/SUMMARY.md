@@ -25,3 +25,4 @@
 
 - [Rust 类型系统: 从 GAT 到类型擦除的深入探讨](./595/rust-type-system-deep-dive.md)
 - [我使用 Rust 的这两年](./595/borretti-two-years-of-rust.md)
+- [Rust GUI 生态调查 (2025)](./595/2025-survey-of-rust-gui-libraries.md)
