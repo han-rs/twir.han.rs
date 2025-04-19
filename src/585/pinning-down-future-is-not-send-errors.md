@@ -22,6 +22,8 @@ description: "如果您使用异步 Rust 和 Tokio, 则可能会遇到各式各�
 >
 > 2025 年 2 月 8 日晚, 于广州.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F585%2Fpinning-down-future-is-not-send-errors.md&style=social&label=Last%20updated)
+
 来自译者的前言:
 
 Rust 的难度有目共睹, 异步 Rust 更是难上加难, 毕竟异步本来就不是件简单的事情, 有的语言一开始压根没有异步的概念(例如 Python 直到 3.4 才引入 asyncio), 有的语言异步从一而终(无 goroutine 无 Go), 它们大多数都将异步那些复杂的实现隐藏, 让新手也能轻松入门, 而 Rust 作为现代系统级编程语言, 选择让你去从底层控制(当然 `tokio` 一类的库帮你干了很多很多).
@@ -29,6 +31,10 @@ Rust 的难度有目共睹, 异步 Rust 更是难上加难, 毕竟异步本来�
 本文主要讲述如何理解, 以及如何定位哪导致 `Future is not Send` 的问题, 个人觉得写得非常好, 适合初学者学习.
 
 ---
+
+# Pinning Down "Future Is Not Send" Errors
+
+定位 "Future Is Not Send" 错误
 
 If you use async Rust and Tokio, you are likely to run into some variant of the "future is not `Send`" compiler error. While transitioning some sequential async code to use streams, a friend suggested a small technique for pinning down the source of the non-`Send` errors. It helped a lot, so I thought it would be worth writing up in case it saves others some annoying debugging time.
 
