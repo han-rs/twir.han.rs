@@ -22,6 +22,8 @@ description: 当人们说 Rust 是一种 "安全的语言" 时, 他们通常指�
 >
 > 2025 年 4 月 13 日晚, 于北京.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F594%2Fpitfalls-of-safe-rust.md&style=social&label=Last%20updated)
+
 # Pitfalls of Safe Rust | 安全 Rust "不安全"
 
 When people say Rust is a "safe language", they often mean memory safety.
