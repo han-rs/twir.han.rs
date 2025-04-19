@@ -23,7 +23,7 @@
 
 # 第 595 期
 
-- [Rust 类型系统: 从 GAT 到类型擦除的深入探讨](./595/rust-type-system-deep-dive.md)
+- [Rust 类型系统深入探讨: 从 GAT 到类型擦除](./595/rust-type-system-deep-dive.md)
 - [我使用 Rust 的这两年](./595/borretti-two-years-of-rust.md)
 - [Rust GUI 生态调查 (2025)](./595/2025-survey-of-rust-gui-libraries.md)
 - [从头开始异步 (1): Future 到底是什么?](./595/natkr-async-from-scratch-1.md)

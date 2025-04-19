@@ -1,6 +1,6 @@
 <!-- ---
 author: Oleksandr Prokhorenko, translated by Hantong Chen
-title: "Rust 类型系统: 从 GAT 到类型擦除的深入探讨"
+title: "Rust 类型系统深入探讨: 从 GAT 到类型擦除"
 pubDatetime: 2025-04-20T01:38:00.000+08:00
 # modDatetime:
 featured: true
@@ -26,7 +26,7 @@ description: ""
 
 # Rust Type System Deep Dive From GATs to Type Erasure
 
-Rust 类型系统: 从泛型关联类型 (Generic Associated Types, GAT) 到类型擦除的深入探讨
+Rust 类型系统深入探讨: 从 GAT 到类型擦除
 
 ## TOC
 
