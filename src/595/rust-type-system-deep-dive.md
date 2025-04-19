@@ -22,6 +22,8 @@ description: ""
 >
 > 2025 年 4 月 19 日晚, 于北京.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F595%2Frust-type-system-deep-dive.md&style=social&label=Last%20updated)
+
 # Rust Type System Deep Dive From GATs to Type Erasure
 
 Rust 类型系统: 从泛型关联类型 (Generic Associated Types, GAT) 到类型擦除的深入探讨
