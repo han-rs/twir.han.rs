@@ -22,7 +22,15 @@ description: 现有的 Iterator trait 在处理许多重要需求时捉襟见肘
 >
 > 2025 年 2 月 17 日晚, 于广州.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F586%2Fa-survey-of-every-iterator-variant.md&style=social&label=Last%20updated)
+
 译者前言: 本文作者梳理了一些标准库中存在或作者希望存在的迭代器, 迭代器作为 Rust 中的重要概念, 值得认真了解. 作者给出的部分设想其实也能以子 trait 的方式自行实现, 不妨将其作为练习; 当然, 大部分设想都需要改动标准库甚至编译器实现, 所以了解其思想即可! 援引作者的一句话: "`Iterator` is probably the single-most complex trait in the language. It is a junction in the language where every effect, auto-trait, and lifetime feature ends up intersecting."
+
+---
+
+# A survey of every iterator variant
+
+细数 Rust 那些迭代器 (Iterator)
 
 ## Introduction
 
