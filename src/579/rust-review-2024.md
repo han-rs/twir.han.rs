@@ -22,6 +22,12 @@ description: "回顾今年 Rust 取得的进步, 展望未来"
 >
 > 2024 年 12 月 30 日凌晨, 于北京.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F579%2Frust-review-2024.md&style=social&label=Last%20updated)
+
+# A Review of Rust in 2024: What Next?
+
+Rust 2024: 总结与展望
+
 Rust is a programming language with a highly active community. Contributors are constantly adding new features and working toward new goals. This article summarizes my favorite features added in 2024, and also addresses my hopes for the future!
 
 Rust 是一门有着高度活跃的社区的编程语言, 无数贡献者正持续为其添加新功能、达成新目标. 本文总结了 2024 年添加到 Rust 的我最喜欢的语言特性, 同时也展望了我未来的期许.
