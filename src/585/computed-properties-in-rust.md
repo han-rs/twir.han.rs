@@ -22,9 +22,15 @@ description: "所谓计算属性, 即需要根据已有数据计算的属性. Sw
 >
 > 2025 年 2 月 7 日晚, 于广州.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F585%2Fcomputed-properties-in-rust.md&style=social&label=Last%20updated)
+
 (译者注: 本文适合 `Rust` 新手阅读, `Rust` 熟手可跳过.)
 
-## Table of contents
+# Computed Properties in Rust
+
+Rust 计算属性 (computed properties) 最佳实践
+
+<!-- ## Table of contents -->
 
 ## Introduction | 前言
 
