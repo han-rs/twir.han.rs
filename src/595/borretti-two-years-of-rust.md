@@ -22,6 +22,8 @@ description: ""
 >
 > 2025 年 5 月 31 日下午, 于北京.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F595%2Fborretti-two-years-of-rust.md&style=social&label=Last%20updated)
+
 # 我使用 Rust 的这两年
 
 I recently wrapped up a job where I spent the last two years writing the backend of a B2B SaaS product in Rust,
@@ -30,7 +32,6 @@ so now is the ideal time to reflect on the experience and write about it.
 我最近结束了一份工作, 过去两年我一直在用 Rust 编写一个 B2B SaaS 产品的后端. 现在是回顾这段经历并落笔记录下它的理想时机.
 
 ## Contents | 目录
-
 
 ## Learning | Rust 学习之路
 
