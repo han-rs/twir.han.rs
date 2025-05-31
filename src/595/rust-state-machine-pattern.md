@@ -22,6 +22,8 @@ description: ""
 >
 > 2025 年 5 月 31 日下午, 于北京.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/han-rs/twir.han.rs?path=src%2F595%2Frust-state-machine-pattern.md&style=social&label=Last%20updated)
+
 # Rust 状态机模式
 
 Lately I've been thinking a lot about the patterns and structures which we program with. It's really wonderful to start exploring a project and see familiar patterns and styles which you've already used before. It makes it easier to understand the project, and empowers you to start working on the project faster.
