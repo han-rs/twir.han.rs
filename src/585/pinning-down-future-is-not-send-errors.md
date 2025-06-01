@@ -16,7 +16,7 @@ description: "如果您使用异步 Rust 和 Tokio, 则可能会遇到各式各�
 >
 > 本文翻译自 Evan Schwartz 的博客文章 [https://emschwartz.me/pinning-down-future-is-not-send-errors](https://emschwartz.me/pinning-down-future-is-not-send-errors), 英文原文版权由原作者所有, 中文翻译版权遵照 CC BY-NC-SA 协议开放. 如原作者有异议请邮箱联系.
 >
-> 相关术语翻译依照 [Rust 语言术语中英文对照表](https://i.han.rs/glossary/rust-glossary).
+> 相关术语翻译依照 [Rust 语言术语中英文对照表](../glossary/rust-glossary.md).
 >
 > 囿于译者自身水平, 译文虽已力求准确, 但仍可能词不达意, 欢迎批评指正.
 >

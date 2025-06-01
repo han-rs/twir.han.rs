@@ -1,6 +1,7 @@
 # TWiR 翻译辑录
 
 [前言](./index.md)
+[Rust 语言术语中英文对照表](./glossary/rust-glossary.md)
 
 ---
 

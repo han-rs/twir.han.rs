@@ -16,7 +16,7 @@ description: "回顾今年 Rust 取得的进步, 展望未来"
 >
 > 本文翻译自 Barrett Ray 的博客文章 [https://barretts.club/posts/rust_review_2024/](https://barretts.club/posts/rust_review_2024/), 已获许可, 英文原文版权由原作者所有, 中文翻译版权遵照 CC BY-NC-SA 协议开放.
 >
-> 相关术语翻译依照 [Rust 语言术语中英文对照表](https://i.han.rs/glossary/rust-glossary).
+> 相关术语翻译依照 [Rust 语言术语中英文对照表](../glossary/rust-glossary.md).
 >
 > 囿于译者自身水平, 译文虽已力求准确, 但仍可能词不达意, 欢迎批评指正.
 >
